@@ -39,6 +39,4 @@ If you come across any issues please [report them here](https://github.com/rappa
 
 If you would like to help the continued efforts of this project, any size [donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JJWUZ4E9S9SFG&lc=US&item_name=Laravel%205%20Boilerplate&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) are welcomed and highly appreciated.
 
-### License
 
-MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
