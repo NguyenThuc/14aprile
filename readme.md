@@ -33,13 +33,7 @@ Please view the [wiki](https://github.com/rappasoft/laravel-5-boilerplate/wiki) 
 
 If you come across any issues please [report them here](https://github.com/rappasoft/Laravel-5-Boilerplate/issues).
 
-### Contributing
 
-Thank you for considering contributing to the Laravel Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Anthony Rappa at rappa819@gmail.com.
-
-### Security Vulnerabilities
-
-If you discover a security vulnerability within this boilerplate, please send an e-mail to Anthony Rappa at rappa819@gmail.com, or create a pull request if possible. All security vulnerabilities will be promptly addressed. Please reference [this page](https://github.com/rappasoft/laravel-5-boilerplate/wiki/7.-Security-Fixes) to make sure you are up to date.
 
 ### Donations
 
